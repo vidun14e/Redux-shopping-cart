@@ -38,4 +38,4 @@ const CartContainer = ({ cart = [] }) => {
   );
 };
 
-export default CartContainer;
+export default CartContainer; 
